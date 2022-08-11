@@ -1,0 +1,111 @@
+body {
+    font-family: Sans-Serif;
+    text-align: center;
+    background-color: white;
+  }
+  
+  #header {
+    display: flex;
+    margin-left: 10px;
+    margin-top: 15px;
+  }
+  
+  #pawprint {
+    width: 23px;
+    height: 23px;
+  }
+  
+  #pawname {
+    color: #f28b00;
+    margin-top: 3px;
+    margin-left: 6px;
+    margin-right: 5px;
+    display: flex;
+    font-weight: 700;
+    font-size: 17px;
+  }
+  
+
+  #smileGif{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    margin-top: 3px;
+    margin-left: 220px;
+    cursor: pointer;
+  }
+  
+  
+  #getnewDog{
+    color: white;
+    background-color: #f28b00;
+    margin: auto;
+    padding: 5px 12px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+ button:hover, button:active, button:link {
+    outline: none;
+    box-shadow: 0px 0px 5px rgb(203,203,203);
+  }
+  
+  #gif {
+    width: 350px;
+    margin-top: 70px;
+  }
+  
+  #stText {
+    color: #0d0d60;
+    font-size: 30px;
+    font-weight: 700;
+    margin: auto;
+    margin-top: 4px;
+  }
+  
+  #ndText {
+    width: 180px;
+    font-size: 16px;
+    font-weight: 300;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 21px;
+  }
+  
+  #apiDog {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 3px 10px #c2c2c2;
+  }
+  
+  #getnewDog {
+    font-size: 17px;
+    margin-top: 10px;
+    padding: 6px 60px;
+  }
+  
+  #getApi {
+    font-size: 12px;
+    margin-top: 8px;
+  }
+  
+  #footer {
+    display: flex;
+    margin-left: 135px;
+    margin-top: 20px;
+  }
+  
+  #socialst {
+    width: 30px;
+  }
+  
+  #socialsg {
+    width: 31px;
+  
+    margin-right: 15px;
+  }
